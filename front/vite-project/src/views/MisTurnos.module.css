@@ -1,0 +1,23 @@
+.container_general{
+    display: block;
+    margin-right: 5rem;
+    margin-left: 5rem;
+    margin-top: 4rem;
+    color: white;
+}
+
+h1{
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th{
+    text-align: center;
+    padding: 8px;
+    background-color: #ccc; /* Cambiar el color de fondo de las celdas de la cabecera */
+    color: black;
+}

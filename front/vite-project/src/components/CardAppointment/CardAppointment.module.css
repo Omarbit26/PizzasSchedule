@@ -1,0 +1,24 @@
+
+td {
+  text-align: center;
+  
+}
+
+.container_button{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.status{
+  color: white;
+  border-radius: 15px;
+  margin: 0 auto;
+}
+
+
+.button_cancell{
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
